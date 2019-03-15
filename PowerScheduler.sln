@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerScheduler.Service", "PowerScheduleService\PowerScheduler.Service.csproj", "{3396B49B-FC7F-4248-A0F8-7DF5A71468B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerScheduler.Services.Tests", "PowerScheduler.Services.Tests\PowerScheduler.Services.Tests.csproj", "{FE06182C-6970-421D-A2FF-4AE18D793794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3396B49B-FC7F-4248-A0F8-7DF5A71468B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3396B49B-FC7F-4248-A0F8-7DF5A71468B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3396B49B-FC7F-4248-A0F8-7DF5A71468B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3396B49B-FC7F-4248-A0F8-7DF5A71468B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE06182C-6970-421D-A2FF-4AE18D793794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE06182C-6970-421D-A2FF-4AE18D793794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE06182C-6970-421D-A2FF-4AE18D793794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE06182C-6970-421D-A2FF-4AE18D793794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E65268-7CE6-47F7-B1F0-192A3E017720}
+	EndGlobalSection
+EndGlobal
